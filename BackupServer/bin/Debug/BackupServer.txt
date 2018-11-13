@@ -18,4 +18,3 @@
 17 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port i protokol [500, udp] nisu pronadjeni u WhiteList Firewall-u.;State=Closed
 18 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port i protokol [1900, udp] nisu pronadjeni u WhiteList Firewall-u.;State=Closed
 19 Criticality=Kriticnost;Timestamp=11/13/2018 1:53:26 AM;Source=izvor;Message=Konfiguracija je izmjenjena;State=Closed
-
