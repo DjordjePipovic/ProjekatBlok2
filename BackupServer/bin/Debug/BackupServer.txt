@@ -1,0 +1,21 @@
+0 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [135] nije pronadjen u WhiteList Firewall-u.;State=Closed
+1 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [445] nije pronadjen u WhiteList Firewall-u.;State=Closed
+2 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [2869] nije pronadjen u WhiteList Firewall-u.;State=Closed
+3 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [5040] nije pronadjen u WhiteList Firewall-u.;State=Closed
+4 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [7680] nije pronadjen u WhiteList Firewall-u.;State=Closed
+5 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [9003] nije pronadjen u WhiteList Firewall-u.;State=Closed
+6 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49664] nije pronadjen u WhiteList Firewall-u.;State=Closed
+7 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49665] nije pronadjen u WhiteList Firewall-u.;State=Closed
+8 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49666] nije pronadjen u WhiteList Firewall-u.;State=Closed
+9 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49667] nije pronadjen u WhiteList Firewall-u.;State=Closed
+10 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49668] nije pronadjen u WhiteList Firewall-u.;State=Closed
+11 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49669] nije pronadjen u WhiteList Firewall-u.;State=Closed
+12 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [49678] nije pronadjen u WhiteList Firewall-u.;State=Closed
+13 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [53758] nije pronadjen u WhiteList Firewall-u.;State=Closed
+14 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [63539] nije pronadjen u WhiteList Firewall-u.;State=Closed
+15 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port [43227] nije pronadjen u WhiteList Firewall-u.;State=Closed
+16 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port i protokol [123, udp] nisu pronadjeni u WhiteList Firewall-u.;State=Closed
+17 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port i protokol [500, udp] nisu pronadjeni u WhiteList Firewall-u.;State=Closed
+18 Criticality=Kriticnost;Timestamp=11/12/2018 7:34:25 PM;Source=izvor;Message=Port i protokol [1900, udp] nisu pronadjeni u WhiteList Firewall-u.;State=Closed
+19 Criticality=Kriticnost;Timestamp=11/13/2018 1:53:26 AM;Source=izvor;Message=Konfiguracija je izmjenjena;State=Closed
+
